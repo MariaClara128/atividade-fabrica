@@ -1,0 +1,21 @@
+Crie um programa em Python que realize o cadastro de 5 alunos. Para cada aluno, o programa deve solicitar o nome e a nota.
+
+Os dados devem ser armazenados em uma lista de dicionários, onde cada dicionário representa um aluno contendo seu nome e sua nota.
+
+Após o cadastro, o programa deve calcular e exibir:
+
+* A média das notas da turma
+* A maior nota
+* A menor nota
+
+Em seguida, o programa deve classificar cada aluno de acordo com sua nota:
+
+Nota maior ou igual a 7: Aprovado
+Nota maior ou igual a 5 e menor que 7: Recuperação
+Nota menor que 5: Reprovado
+
+Por fim, o programa deve exibir:
+
+* A lista completa de alunos com suas respectivas informações
+* Os alunos aprovados
+* Os alunos reprovados
